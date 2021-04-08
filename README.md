@@ -6,3 +6,5 @@ https://alizezila.github.io/leaflet-map-simple/
 
 ## Create your own
 See step-by-step tutorial at https://HandsOnDataViz.org, an open-access book by Jack Dougherty and Ilya Ilyankou
+
+<iframe src="https://alizezila.github.io/leaflet-map-simple/"></iframe> Link to iframe for wordpress
